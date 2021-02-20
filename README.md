@@ -10,3 +10,6 @@ That said, it was quite frustrating to learn this, as I personally would like to
 
 ## Comment
 I was also surprised to learn developer's don't necessarily have full ownership of their side projects - Anthony Delgado
+
+## Mason's Comment
+I didn't know that software companies don't own their programmers software by default.
